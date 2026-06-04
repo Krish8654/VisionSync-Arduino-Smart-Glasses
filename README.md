@@ -47,10 +47,12 @@ OLED Display
 - Navigation Support
 - Battery Monitoring
 
-## Developer
+## Author
 
 Kishaloy Banerjee
 Electrical Engineering Student
+Developer of VisionSync Arduino Smart Glasses
+GitHub: @Krish8654
 
 ## Copyright
 
