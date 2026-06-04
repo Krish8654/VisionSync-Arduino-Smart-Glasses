@@ -32,13 +32,10 @@ The system displays real-time information from a smartphone directly on a wearab
 ## Project Architecture
 
 Android App
-
 ↓
 Bluetooth HC-05
-
 ↓
 Arduino Nano
-
 ↓
 OLED Display
 
